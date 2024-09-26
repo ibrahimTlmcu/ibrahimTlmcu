@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on .NET<br><br>🌱 I’m currently learning beckend<br>
+<br>🌱 I’m  learning beckend<br>
 
 
 ## 🌐 Socials:
