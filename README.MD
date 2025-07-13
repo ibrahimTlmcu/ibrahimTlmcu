@@ -1,6 +1,23 @@
 # 💫 About Me
 
-| <div markdown="span">🌱 I'm currently learning **backend development**, focusing on scalable and maintainable applications.<br><br>## 🌐 Socials:<br>[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/codecrew__)  <br>[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codecrew__)  <br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ibrahimtulumcu)  <br>[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ibrahimtulumcu) </div> | <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW5yN3czZG16eHRvOXI1OHp5YWNuenFoZHdlZHkwejZ3OTQ3bDgwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" alt="coding gif" width="320" /> |
+| <div markdown="span">🌱 I'm currently learning **backend development**, focusing on scalable and maintainable applications.<br><br>## 
+🌐 Socials:<br>
+
+<a href="https://discord.gg/codecrew__" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" width="80" />
+</a><br>
+<a href="https://instagram.com/codecrew__" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" width="80" />
+</a><br>
+<a href="https://linkedin.com/in/ibrahimtulumcu" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" width="80" />
+</a><br>
+<a href="https://medium.com/@ibrahimtulumcu" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium" width="80" />
+</a>
+
+
+</div> | <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW5yN3czZG16eHRvOXI1OHp5YWNuenFoZHdlZHkwejZ3OTQ3bDgwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" alt="coding gif" width="320" /> |
 |---|---|
 
 ---
